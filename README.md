@@ -1,12 +1,10 @@
-### Welcome to the BVC Repository on GitHub!
+### gh-pages BRANCH
+### NEVER MERGE THIS BRANCH WITH ANY OTHER.
+### BVC BLOG FILES ONLY
 
-In this repo you will find:
-* Documentation for the BVC controller
-* Wiki for the BVC controller
-* Blog for the BVC controller
+This is the gh-pages branch of the BVC Repository - it contains the source file that produce the blog at http://brcdcomm.github.io/BVC/
 
-Download the documentation to learn more about the BVC controller, including installation and operational instructions.
+For more information read about Github-pages for Project Sites see:
+https://pages.github.com/
 
-Visit the Wiki to learn more about writing applications for the BVC controller, including links to Brocade as well as non-Brocade sites. You will find information about SDN application development, about MD-SAL, about testing your applications, and more.
-
-Visit the blog to get the latest advice and technical information about the controller and about developing applications in the BVC environment.
+In short, the gh-pages repository is special and Github treats it specially.
