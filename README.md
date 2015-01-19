@@ -1,8 +1,8 @@
 ### Welcome to the BVC Repository on GitHub!
 
-In this repo you will find:
-* Documentation for the BVC controller
-* Wiki for the BVC controller
+In this repository you will find:
+* Documentation for the BVC controller (in "docs" folder above)
+* [Wiki for the BVC controller](https://github.com/BRCDcomm/BVC/wiki)
 * Blog for the BVC controller
 
 Download the documentation to learn more about the BVC controller, including installation and operational instructions.
