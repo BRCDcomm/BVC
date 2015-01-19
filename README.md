@@ -1,12 +1,13 @@
 ### Welcome to the BVC Repository on GitHub!
 
 In this repository you will find:
-* Documentation for the BVC controller (in "docs" folder above)
-* [Wiki for the BVC controller](https://github.com/BRCDcomm/BVC/wiki)
-* Blog for the BVC controller
 
-Download the documentation to learn more about the BVC controller, including installation and operational instructions.
+* [Wiki for the Brocade Vyatta Controller](https://github.com/BRCDcomm/BVC/wiki)
+* [Blog for the Brocade Vyatta Controller](http://brcdcomm.github.io/BVC/)
+* Documentation for the Brocade Vyatta Controller (in "docs" folder above)
 
-Visit the Wiki to learn more about writing applications for the BVC controller, including links to Brocade as well as non-Brocade sites. You will find information about SDN application development, about MD-SAL, about testing your applications, and more.
+Visit the Wiki to learn more about writing applications for the Brocade Vyatta Controller, including links to Brocade as well as some helpful external links. You will find information about SDN application development, about MD-SAL, about YANG, and more.
 
 Visit the blog to get the latest advice and technical information about the controller and about developing applications in the BVC environment.
+
+Download the documentation to learn more about the BVC controller, including installation and operational instructions.
