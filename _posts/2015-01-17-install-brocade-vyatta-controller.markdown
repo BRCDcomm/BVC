@@ -3,7 +3,7 @@ layout: post
 title:  "Install Brocade Vyatta Controller (BVC) 1.1.1"
 date:   2015-01-19 15:20:55
 categories: jekyll update devops netdev appdev
-author:  Jim Burns
+author:  jim_burns
 ---
 This video demonstrates how to install the Brocade Vyatta Controller (BVC) version 1.1.1.  
 
