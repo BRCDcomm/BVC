@@ -7,7 +7,7 @@ author:  jim_burns
 ---
 This video demonstrates how to install the Brocade Vyatta Controller (BVC) version 1.1.1.  
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/pXxupL46aYw" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/8tuEfo1ZAtg" frameborder="0" allowfullscreen></iframe>
 
 Hop To A Specific Section Of The Video:
 
@@ -32,11 +32,11 @@ More Info Links:
 
 
 [BuildVM]: https://www.youtube.com/watch?v=saNnY7A55gM
-[InstallPrereq]: http://www.youtube.com/watch?v=pXxupL46aYw&t=0m35s
-[ValidateMachine]: http://www.youtube.com/watch?v=pXxupL46aYw&t=3m24s
-[ValidatePrereq]: http://www.youtube.com/watch?v=pXxupL46aYw&t=4m2s
-[DownloadBvc]: http://www.youtube.com/watch?v=pXxupL46aYw&t=4m49s
-[InstallBvc]: http://www.youtube.com/watch?v=pXxupL46aYw&t=5m28s
-[ValidateBvc]: http://www.youtube.com/watch?v=pXxupL46aYw&t=6m19s
-[ControlBvc]: http://www.youtube.com/watch?v=pXxupL46aYw&t=7m38s
+[InstallPrereq]: http://www.youtube.com/watch?v=8tuEfo1ZAtg&t=0m35s
+[ValidateMachine]: http://www.youtube.com/watch?v=8tuEfo1ZAtg&t=3m24s
+[ValidatePrereq]: http://www.youtube.com/watch?v=8tuEfo1ZAtg&t=4m2s
+[DownloadBvc]: http://www.youtube.com/watch?v=8tuEfo1ZAtg&t=4m49s
+[InstallBvc]: http://www.youtube.com/watch?v=8tuEfo1ZAtg&t=5m28s
+[ValidateBvc]: http://www.youtube.com/watch?v=8tuEfo1ZAtg&t=6m19s
+[ControlBvc]: http://www.youtube.com/watch?v=8tuEfo1ZAtg&t=7m38s
 
