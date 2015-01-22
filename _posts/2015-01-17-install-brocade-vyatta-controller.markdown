@@ -22,7 +22,7 @@ Hop To A Specific Section Of The Video:
 
 Download Links:
 
- * <a href="http://www.oracle.com/technetwork/java/javase/downloads/server-jre7-downloads-1931105.html" target="_blank">Java 1.7.0_71</a>
+ * <a href="http://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html#sjre-7u71-oth-JPR" target="_blank">Java 1.7.0_71</a>
  * <a href="http://www.brocade.com/forms/jsp/vyatta-controller/index.jsp?src=SM&lsd=LI&lst=Organic&cn=SDN-GDG-15Q1-EVAL-Vyatta-Controller&cid=lp_networkdestiny2_so_LI_00001" target="_blank">BVC 1.1.1</a>
  * <a href="http://www.ubuntu.com/download/desktop" target="_blank">Ubuntu 14.04</a>
 
