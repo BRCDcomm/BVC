@@ -31,6 +31,15 @@ More Info Links:
  * <a href="https://github.com/BRCDcomm/BVC/wiki" target="_blank">BVC Wiki</a> is where you can find out more information about BVC 1.1.1.
  * <a href="http://community.brocade.com/t5/DevNet/ct-p/APISupport" target="_blank">Brocade Vyatta DevNet Community</a> is where you can find discussions and docs about BVC and programming it.
 
+[BuildVM]: https://www.youtube.com/watch?v=saNnY7A55gM
+[InstallPrereq]: http://www.youtube.com/watch?v=8tuEfo1ZAtg&t=0m35s
+[ValidateMachine]: http://www.youtube.com/watch?v=8tuEfo1ZAtg&t=3m24s
+[ValidatePrereq]: http://www.youtube.com/watch?v=8tuEfo1ZAtg&t=4m2s
+[DownloadBvc]: http://www.youtube.com/watch?v=8tuEfo1ZAtg&t=4m49s
+[InstallBvc]: http://www.youtube.com/watch?v=8tuEfo1ZAtg&t=5m28s
+[ValidateBvc]: http://www.youtube.com/watch?v=8tuEfo1ZAtg&t=6m19s
+[ControlBvc]: http://www.youtube.com/watch?v=8tuEfo1ZAtg&t=7m38s
+
 
 [BuildVM]: https://www.youtube.com/watch?v=saNnY7A55gM
 [InstallPrereq]: http://www.youtube.com/watch?v=8tuEfo1ZAtg&t=0m35s
