@@ -29,6 +29,7 @@ Download Links:
 More Info Links:
 
  * <a href="https://github.com/BRCDcomm/BVC/wiki" target="_blank">BVC Wiki</a> is where you can find out more information about BVC 1.1.1.
+ * <a href="http://community.brocade.com/t5/DevNet/ct-p/APISupport" target="_blank">Brocade Vyatta DevNet Community</a>
 
 
 [BuildVM]: https://www.youtube.com/watch?v=saNnY7A55gM
