@@ -12,7 +12,7 @@ Check out Matt Davy introducting the BVC.  He indicates why the BVC is a platfor
 Links Discussed In Video:
 
  * <a href="http://mininet.org" target="_blank">Mininet</a>
- * <a href="http://www.brocade.com/forms/jsp/vyatta-controller/index.jsp?src=SM&lsd=LI&lst=Organic&cn=SDN-GDG-15Q1-EVAL-Vyatta-Controller&cid=lp_networkdestiny2_so_LI_00001" target="_blank">BVC 1.1.1</a>
+ * <a href="http://www.brocade.com/forms/jsp/vyatta-controller/index.jsp?src=SM&lsd=LI&lst=Organic&cn=SDN-GDG-15Q1-EVAL-Vyatta-Controller&cid=github_wiki" target="_blank">BVC 1.1.1</a>
  * <a href="https://github.com/BRCDcomm/BVC/wiki" target="_blank">BVC Wiki</a> is where you can find out more information about BVC 1.1.1.
  * <a href="https://my.brocade.com" target="_blank">Create support case at my.brocade.com</a>
  * <a href="mailto:support@brocade.com" target="_blank">Email a support question to Brocade</a>
