@@ -16,4 +16,5 @@ Links Discussed In Video:
  * <a href="https://github.com/BRCDcomm/BVC/wiki" target="_blank">BVC Wiki</a> is where you can find out more information about BVC 1.1.1.
  * <a href="https://my.brocade.com" target="_blank">Create support case at my.brocade.com</a>
  * <a href="mailto:support@brocade.com" target="_blank">Email a support question to Brocade</a>
+ * <a href="http://community.brocade.com/t5/DevNet/ct-p/APISupport" target="_blank">Brocade Vyatta DevNet Community</a> is where you can find discussions and docs about BVC and programming it.
 
