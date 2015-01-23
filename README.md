@@ -2,7 +2,7 @@
 
 In this repository you will find:
 
-* [Wiki for the Brocade Vyatta Controller](https://github.com/BRCDcomm/BVC/wiki)
+* [Wiki for the Brocade Vyatta Controller](https://github.com/BRCDcomm/BVC/wiki) (including download links)
 * [Blog for the Brocade Vyatta Controller](http://brcdcomm.github.io/BVC/)
 * Documentation for the Brocade Vyatta Controller (in "docs" folder above)
 
