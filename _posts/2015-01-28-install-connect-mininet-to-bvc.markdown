@@ -7,7 +7,7 @@ author:  jim_burns
 ---
 This video demonstrates how to install Mininet and connect it to the Brocade Vyatta Controller (BVC) version 1.1.1.  
 
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=1_-9jVf5XpU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1_-9jVf5XpU" frameborder="0" allowfullscreen></iframe>
 
 
 Download Links:
