@@ -14,7 +14,8 @@ Download Links:
 
  * <a href="https://github.com/mininet/mininet/wiki/Mininet-VM-Images" target="_blank">Mininet Download</a>
 
-Previous Blogs:
+Related Blog Posts:
+
  * [Install Brocade Vyatta Controller 1.1.1][InstallBVC]
 
 More Info Links:
