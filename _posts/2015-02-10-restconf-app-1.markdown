@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Develop A RESTConf Application for Brocade Vyatta Controller (BVC) 1.1.1"
+title:  "Develop A RESTCONF Application for Brocade Vyatta Controller (BVC) 1.1.1"
 date:   2015-02-10 16:26:55
 categories: jekyll update devops netdev appdev
 author:  jim_burns
