@@ -1,4 +1,4 @@
----
+--
 layout: post
 title:  "Develop A RESTCONF Application for Brocade Vyatta Controller (BVC) 1.1.1"
 date:   2015-02-10 16:26:55
@@ -11,6 +11,7 @@ writing an application that will monitor, manage and control your network.  This
 a simple application that demonstrates using the RESTCONF interface to BVC 1.1.1.
 
 The final application can be cloned from https://github.com/jebpublic/bvcRestConfExample1 using the command:
+
  * git clone https://github.com/jebpublic/bvcRestConfExample1.git
 
 There are two videos that discuss the development of this application.  The first discusses setting up the Python
