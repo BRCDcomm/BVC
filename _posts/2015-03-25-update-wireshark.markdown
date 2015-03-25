@@ -8,7 +8,7 @@ author:  jim_burns
 
 This video describes a quick way (via a personal repository) to update Wireshark in Ubuntu 14.04 to have the ability to parse OpenFlow packets.  Useful links below:
 
-<iframe width="560" height="315" src="https://youtu.be/Nk7VR9g83Zg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nk7VR9g83Zg" frameborder="0" allowfullscreen></iframe>
 
 Download Links:
 
