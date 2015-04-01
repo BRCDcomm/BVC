@@ -5,7 +5,9 @@ In this repository you will find:
 * [Wiki for the Brocade Vyatta Controller](https://github.com/BRCDcomm/BVC/wiki) (including download links)
 * [Blog for the Brocade Vyatta Controller](http://brcdcomm.github.io/BVC/)
 * Documentation for the Brocade Vyatta Controller (in "docs" folder above)
-* Postman Collection for Brocade Vyatta Controller RESTCONF interface: https://www.getpostman.com/collections/8b6ce8062a79deb2b397
+* Postman Collection for Brocade Vyatta Controller RESTCONF interface: 
+    * BVC 1.1.1 Postman collection:  https://www.getpostman.com/collections/8b6ce8062a79deb2b397
+    * BVC 1.2.0 Postman collection:  https://www.getpostman.com/collections/b6b7ee769763be002cdc
 
 Visit the Wiki to learn more about writing applications for the Brocade Vyatta Controller, including links to Brocade as well as some helpful external links. You will find information about SDN application development, about MD-SAL, about YANG, and more.
 
