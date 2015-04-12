@@ -12,15 +12,7 @@ This video shows how to connect HP ProCurve/ProVision 2920 Switch to Brocade Vya
 
 HP 2920 Configuration File:
 
-{% highlight python linenos %}
-SOme code;
-  This should be code;
-  code;
-  code;
-  code;
-{% endhighlight %}
-
-```
+{% highlight %}
 HP-2920-48G(config)# show run
 Running configuration:
 ; J9728A Configuration Editor; Created on release #WB.15.16.0006
@@ -53,7 +45,7 @@ vlan 5
    ip address 10.1.1.1 255.255.255.0
    exit
 HP-2920-48G(config)#
-```
+{% endhighlight %}
 
 
 More Info Links:
