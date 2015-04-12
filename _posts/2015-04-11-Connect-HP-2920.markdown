@@ -12,7 +12,7 @@ This video shows how to connect HP ProCurve/ProVision 2920 Switch to Brocade Vya
 
 HP 2920 Configuration File:
 
-```
+```python
 SOme code;
   This should be code;
   code;
