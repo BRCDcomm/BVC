@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Docker Image for Brocade Vyatta Controller (BVC)"
-date:   2015-04-20 16:26:55
+date:   2015-04-27 16:26:55
 categories: jekyll update devops netdev appdev
 author:  jim_burns
 ---
