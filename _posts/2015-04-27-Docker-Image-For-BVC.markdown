@@ -14,7 +14,7 @@ This video demonstrates how to create a Docker image for Brocade Vyatta Controll
 Related Videos:
 
  * <a href="https://www.youtube.com/watch?v=1_-9jVf5XpU" target="_blank">Install and Connect Mininet</a> 
- * <a href="https://www.youtube.com/watch?v=_3JXBS7wmNg" target="_blank">Fix Localhostwith BVC Docker Image</a> 
+ * <a href="https://www.youtube.com/watch?v=_3JXBS7wmNg" target="_blank">Fix Localhost with BVC Docker Image</a> 
 
 Download Links:
 
