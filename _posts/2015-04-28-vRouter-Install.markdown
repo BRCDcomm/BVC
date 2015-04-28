@@ -19,7 +19,7 @@ Related Videos:
 Purchase/Download/Info Links:
 
  * <a href="https://my.vmware.com/web/vmware/evalcenter?p=vsphere6" target="_blank">VMware</a> 
- * <a href="http://www.brocade.com/products/all/network-functions-virtualization/product-details/5600-vrouter/license-descriptions.page" target="_blank">Brocade vRouter 5600</a> 
+ * <a href="http://www.brocade.com/products/all/network-functions-virtualization/product-details/5600-vrouter/license-descriptions.page" target="_blank">Brocade vRouter 5600 (only licensed version supports NETCONF)</a> 
 
 More Info Links:
 
