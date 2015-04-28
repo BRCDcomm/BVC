@@ -6,7 +6,7 @@ categories: jekyll update devops netdev appdev
 author:  jim_burns
 ---
 
-This video demonstrates how to install vRouter 5600 as a VMware ESX virtual machine.
+This video demonstrates how to install vRouter 5600 as a VMware ESX virtual machine with NETCONF enabled so that Brocade Vyatta Controller can monitor and configure the vRouter 5600.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cS7s0uNjUNI" frameborder="0" allowfullscreen></iframe>
 
