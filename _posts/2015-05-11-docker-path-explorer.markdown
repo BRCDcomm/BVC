@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Path Explorer Docker"
-date:   2015-04-28 16:26:55
+title:  "Docker Image for BVC and Path Explorer"
+date:   2015-05-11 16:26:55
 categories: jekyll update devops netdev appdev
 author:  jim_burns
 ---
