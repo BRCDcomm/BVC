@@ -19,9 +19,9 @@ easier to read.
 
 Download Links:
 
- * <a href="https://github.com/jebpublic/pybvc" target="_blank">pybvc Github repository</a>
- * <a href="https://github.com/jebpublic/pybvcsamples" target="_blank">pybvcsamples Github repository</a>
- * <a href="https://github.com/jebpublic/pybvccmds" target="_blank">pybvccmds Github repository</a>
+ * <a href="https://github.com/brcdcomm/pybvc" target="_blank">pybvc Github repository</a>
+ * <a href="https://github.com/brcdcomm/pybvcsamples" target="_blank">pybvcsamples Github repository</a>
+ * <a href="https://github.com/brcdcomm/pybvccmds" target="_blank">pybvccmds Github repository</a>
 
 
 Related Blog Posts:

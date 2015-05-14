@@ -21,7 +21,7 @@ Download Links:
  * <a href="https://docs.docker.com/installation/ubuntulinux/" target="_blank">Install Docker on Ubuntu</a> 
  * <a href="http://boot2docker.io/" target="_blank">Install Docker on Mac/Windows</a> 
  * <a href="https://www.virtualbox.org/wiki/Downloads" target="_blank">VirtualBox</a> 
- * <a href="https://github.com/alrooney/bvc_install_script" target="_blank">GitHub Repository for BVC on Docker</a> 
+ * <a href="https://github.com/brcdcomm/bvc_install_script" target="_blank">GitHub Repository for BVC on Docker</a> 
 
 More Info Links:
 

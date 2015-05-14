@@ -10,9 +10,9 @@ If you have followed the previous blogs you already have a BVC connected to a mi
 writing an application that will monitor, manage and control your network.  This post will teach you how to write 
 a simple application that demonstrates using the RESTCONF interface to BVC 1.1.1.
 
-The final application can be cloned from https://github.com/jebpublic/bvcRestConfExample1 using the command:
+The final application can be cloned from https://github.com/brcdcomm/bvcRestConfExample1 using the command:
 
- * git clone https://github.com/jebpublic/bvcRestConfExample1.git
+ * git clone https://github.com/brcdcomm/bvcRestConfExample1.git
 
 There are two videos that discuss the development of this application.  The first discusses setting up the Python
 development environment and Google Chrome Postman.  The second video dicusses the research and then provides a code
@@ -31,8 +31,8 @@ This video discusses the research for the application and provides a code walkth
 
 Download Links:
 
- * <a href="https://github.com/jebpublic/bvcRestConfExample1" target="_blank">RESTCONF Application Source Code</a>
-     * git clone https://github.com/jebpublic/bvcRestConfExample1.git
+ * <a href="https://github.com/brcdcomm/bvcRestConfExample1" target="_blank">RESTCONF Application Source Code</a>
+     * git clone https://github.com/brcdcomm/bvcRestConfExample1.git
  * <a href="https://www.python.org/downloads/" target="_blank">Download Python 2.7.x</a>
  * <a href="https://github.com/BRCDcomm/BVC/blob/master/docs/bvc-1.1.1-user-guide.pdf?raw=true" target="_blank">BVC User Guide</a>
  * <a href="https://www.getpostman.com/collections/313544e6800827de2d80" target="_blank">BVC Postman Collection</a>
