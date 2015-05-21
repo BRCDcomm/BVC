@@ -12,8 +12,7 @@ This video introduces you to RubyBVC a Ruby gem to allow you to monitor and conf
 
 Related Videos:
 
-* <a href="https://www.youtube.com/watch?v=2qnWR0LshUs" target="_blank">Install BVC</a>
-* <a href="https://www.youtube.com/watch?v=vlLSupFMh1k" target="_blank">Dockerize BVC</a>
+* <a href="https://www.youtube.com/watch?v=blfWoIiMqb0" target="_blank">Install BVC</a>
 * <a href="https://www.youtube.com/watch?v=1_-9jVf5XpU" target="_blank">Install Mininet</a>
 
 Download Links:
