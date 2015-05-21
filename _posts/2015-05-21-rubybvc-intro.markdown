@@ -12,39 +12,16 @@ This video introduces you to RubyBVC a Ruby gem to allow you to monitor and conf
 
 Related Videos:
 
-* Install BVC:  https://www.youtube.com/watch?v=vlLSupFMh1k
-* Dockerize BVC:  https://www.youtube.com/watch?v=2qnWR0LshUs
-* Install Mininet:  https://www.youtube.com/watch?v=1_-9jVf5XpU
+* <a href="https://www.youtube.com/watch?v=vlLSupFMh1k" target="_blank">Install BVC</a>
+* <a href="https://www.youtube.com/watch?v=2qnWR0LshUs" target="_blank">Dockerize BVC</a>
+* <a href="https://www.youtube.com/watch?v=1_-9jVf5XpU" target="_blank">Install Mininet</a>
 
 Download Links:
 
-*  Rubybvc Github:  https://github.com/BRCDcomm/rubybvc
-*  Install Ruby:  https://www.ruby-lang.org/en/documentation/installation/
-*  Download BVC 1.3.0:  http://store.brocade.com
+* <a href="https://github.com/BRCDcomm/rubybvc" target="_blank">Rubybvc Github</a>
+* <a href="https://www.ruby-lang.org/en/documentation/installation/" target="_blank">Install Ruby</a>
+* <a href="http://store.brocade.com" target="_blank">Download BVC 1.3.0</a>
 
-
-More Info Links:
-
- * Brocade Vyatta Wiki:  https://github.com/BRCDcomm/BVC/wiki
- * Brocade Vyatta Blog:  http://brcdcomm.github.io/BVC/
- * Brocade Vyatta RESTCONF Developers:  https://github.com/BRCDcomm/BVC/wiki/RESTCONF-Developer-Resources
- * Brocade Vyatta DevNet Community:  http://community.brocade.com/t5/DevNet/ct-p/APISupport
-
-
-
-
-
-
-Related Videos:
-
- * <a href="https://www.youtube.com/watch?v=_3JXBS7wmNg" target="_blank">Fix Localhost with BVC Docker Image</a> 
- * <a href="https://www.youtube.com/watch?v=vlLSupFMh1k" target="_blank">Brocade Vyatta Controller Docker</a>
-
-
-Purchase/Download/Info Links:
-
- * <a href="https://github.com/brcdcomm/bvc_docker" target="blank">BVC DockerFile</a>
- * <a href="https://store.brocade.com/store/catalog" target="_blank">Download BVC</a>
 
 More Info Links:
 
