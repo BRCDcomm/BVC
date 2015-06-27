@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Develop A RESTCONF Application for Brocade Vyatta Controller (BVC) 1.1.1"
+title:  "Develop A RESTCONF Application for Brocade SDN Controller"
 date:   2015-02-10 16:26:55
 categories: jekyll update devops netdev appdev
 author:  jim_burns
 ---
 
-If you have followed the previous blogs you already have a BVC connected to a mininet and you are itching to get started 
+If you have followed the previous blogs you already have a Brocade SDN Controller connected to a mininet and you are itching to get started 
 writing an application that will monitor, manage and control your network.  This post will teach you how to write 
-a simple application that demonstrates using the RESTCONF interface to BVC 1.1.1.
+a simple application that demonstrates using the RESTCONF interface to Brocade SDN Controller.
 
 The final application can be cloned from https://github.com/brcdcomm/bvcRestConfExample1 using the command:
 
@@ -34,8 +34,8 @@ Download Links:
  * <a href="https://github.com/brcdcomm/bvcRestConfExample1" target="_blank">RESTCONF Application Source Code</a>
      * git clone https://github.com/brcdcomm/bvcRestConfExample1.git
  * <a href="https://www.python.org/downloads/" target="_blank">Download Python 2.7.x</a>
- * <a href="https://github.com/BRCDcomm/BVC/blob/master/docs/bvc-1.1.1-user-guide.pdf?raw=true" target="_blank">BVC User Guide</a>
- * <a href="https://www.getpostman.com/collections/313544e6800827de2d80" target="_blank">BVC Postman Collection</a>
+ * <a href="https://github.com/BRCDcomm/BVC/blob/master/docs/bvc-1.1.1-user-guide.pdf?raw=true" target="_blank">Brocade SDN Controller User Guide</a>
+ * <a href="https://www.getpostman.com/collections/313544e6800827de2d80" target="_blank">Brocade SDN Controller Postman Collection</a>
  * <a href="https://wiki.opendaylight.org/view/OpenDaylight_Controller:MD-SAL:Restconf:Change_event_notification_subscription" target="_blank">Change Event Notification Subscription</a>
  * <a href="https://github.com/opendaylight/controller/tree/master/opendaylight/md-sal/model" target="_blank">OpenDaylight Controller Yang Models</a>
  * <a href="https://github.com/opendaylight/yangtools/tree/master/model/ietf" target="_blank">OpenDaylight Yangtools IETF Models</a>
@@ -44,13 +44,13 @@ Download Links:
 
 Related Blog Posts:
 
- * [Install Brocade Vyatta Controller 1.1.1][InstallBVC]
+ * [Install Brocade SDN Controller][InstallBVC]
  * [Install and Connect Mininet][InstallMininet]
 
 More Info Links:
 
- * <a href="https://github.com/BRCDcomm/BVC/wiki" target="_blank">BVC Wiki</a> is where you can find out more information about BVC 1.1.1.
- * <a href="http://community.brocade.com/t5/DevNet/ct-p/APISupport" target="_blank">Brocade Vyatta DevNet Community</a> is where you can find discussions and docs about BVC and programming it.
+ * <a href="https://github.com/BRCDcomm/BVC/wiki" target="_blank">BVC Wiki</a> is where you can find out more information about Brocade SDN Controller.
+ * <a href="http://community.brocade.com/t5/DevNet/ct-p/APISupport" target="_blank">Brocade SDN Controller DevNet Community</a> is where you can find discussions and docs about Brocade SDN Controller and programming it.
 
 [InstallBVC]: http://brcdcomm.github.io/BVC/jekyll/update/devops/netdev/appdev/2015/01/19/install-brocade-vyatta-controller.html
 [InstallMininet]: http://brcdcomm.github.io/BVC/jekyll/update/devops/netdev/appdev/2015/01/28/install-connect-mininet-to-bvc.html
