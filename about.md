@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
   Tutorials and ideas for application developers, network admins and devops
-  to write applications for the Brocade Vyatta Controller (BVC).
+  to write applications for the Brocade SDN Controller.
   Software-defined networking (SDN), programmable networks,
   network function virtualization (NFV); no matter what it is called
   you will actually be doing it quicker using what you find here.
