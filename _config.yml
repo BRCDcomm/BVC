@@ -1,5 +1,5 @@
 # Site settings
-title: SDN Application Development With BVC
+title: SDN Application Development With Brocade SDN Controller
 email: jeb@elbrys.com
 description: > # this means to ignore newlines until "baseurl:"
   Tutorials and ideas for application developers, network administrators and 
