@@ -15,4 +15,4 @@ Luckily, Tallac Access Points provide two Ethernet ports, and by that allow an e
 
 We will now walk through all the steps necessary to connect a Tallac AP to the BVC Controller. In this example, the BVC controller is already installed and running at the IP Address 192.168.201.4. The access point is in default mode, with eth0 connected into this network. The network itself is natted to the outside world be a router. We can see our AP in the standard cloud management console www.tallac.com. As you can see the Access point is connected to the cloud management, and has the IP 192.168.88.144. 
 
-![My helpful screenshot]({{ site.url }}/assets/TallacMgmtGUI1.png)
+![My helpful screenshot](http://brcdcomm.github.io/BVC/assets/TallacMgmtGUI1.png)
