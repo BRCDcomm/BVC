@@ -13,8 +13,7 @@ This video is part one (1) in a series of videos that will walk you through sett
 Related Commands:
 
 ```
-	ip addr show
-	systemctl stop NetworkManager
+ip addr show
 ```
 
 
