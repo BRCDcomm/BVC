@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Your first MD-SAL Application"
+date:   2015-08-03 16:26:55
+categories: jekyll update devops netdev appdev
+author:  jim_burns
+---
+
+This video walks you through the creation and install of an MD-SAL application into the Brocade SDN Controller.  At the end of it you will
+understand the process of creating and installing MD-SAL applications, but you will not be an expert.  You will have a better
+understanding of the difference between MD-SAL applications and RESTCONF applications.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vc2pPxFbn_s" frameborder="0" allowfullscreen></iframe>
+
+
+Download Links:
+
+* <a href="https://github.com/BRCDcomm/mdsalapp1" target="_blank">mdsalApp1 Github</a>
+* <a href="http://store.brocade.com" target="_blank">Download Brocade SDN Controller</a>
+
+
+More Info Links:
+
+ * <a href="https://github.com/BRCDcomm/BVC/wiki/RESTCONF-Developer-Resources" target="_blank">Brocade SDN Controller RESTCONF Developer Resources</a> is where you can find tools, info and samples for programming Brocade SDN Controller via the RESTCONF API
+ * <a href="https://github.com/BRCDcomm/BVC/wiki" target="_blank">Brocade SDN Controller Wiki</a> is where you can find out more information about Brocade SDN Controller.
+ * <a href="https://brcdcomm.github.io/BVC/" target="_blank">Brocade SDN Controller Blog</a> is where you can find articles and videos about Brocade SDN Controller.
+ * <a href="http://community.brocade.com/t5/DevNet/ct-p/APISupport" target="_blank">Brocade SDN Controller DevNet Community</a> is where you can find discussions and docs about Brocade SDN Controller and programming it.
+
+[InstallBVC]: http://brcdcomm.github.io/BVC/jekyll/update/devops/netdev/appdev/2015/01/19/install-brocade-vyatta-controller.html
+[ProgramOpenFlow]: http://brcdcomm.github.io/BVC/jekyll/update/devops/netdev/appdev/2015/02/10/restconf-app-1.html
