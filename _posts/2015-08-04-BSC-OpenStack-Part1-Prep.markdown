@@ -14,7 +14,8 @@ Related Commands:
 
 ```
 ip addr show
-
+```
+```
 systemctl stop NetworkManager
 ```
 
