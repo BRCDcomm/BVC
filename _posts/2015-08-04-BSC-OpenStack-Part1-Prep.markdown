@@ -12,9 +12,12 @@ This video is part one (1) in a series of videos that will walk you through sett
 
 Related Commands:
 
-```bash
+```
 ip addr show
 systemctl stop NetworkManager
+```
+
+```
 Systemctl disable NetworkManager
 sudo yum remove NetworkManager
 chkconfig network
