@@ -19,30 +19,58 @@ ip addr show
 
 ```
 systemctl stop NetworkManager
-blah
-blah2
 ```
 
 ```
 Systemctl disable NetworkManager
+```
+
+```
 sudo yum remove NetworkManager
+```
+
+```
 chkconfig network
+```
+
+```
 dhclient
+```
+
+```
 ifup eth0
+```
+
+```
 ifup eth1
+```
+
+```
 sudo yum install net-tools
+```
+
  
+```
 cd /etc/sysconfig/network-scripts
+```
+
+```
 vi ifcfg-eth0
+```
+
 	change onboot to yes
 	change Peerdns to no
 	Vi: I for insert, type whatever, esc to end typing, :x to save:: :q! to exit without saving
 	same for ifcfg-eth1
  
+```
 vi /etc/resolv.conf
-nameserver 8.8.8.8
-nameserver 8.8.4.4
+```
+
+	nameserver 8.8.8.8
+	nameserver 8.8.4.4
  
+```
 shutdown -r now
 ```
 
