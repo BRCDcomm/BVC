@@ -6,6 +6,7 @@ categories: jekyll update devops netdev appdev
 author:  uwe_dahlmann
 ---
 
+
 This video is part two (2) in a series of videos that will walk you through setting up OpenStack with the Brocade SDN Controller.  This video walks you through installing OpenStack via the PackStack distribution for a three node installation.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fPELRoSPgAE" frameborder="0" allowfullscreen></iframe>
